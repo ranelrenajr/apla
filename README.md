@@ -1,2 +1,0 @@
-# apla
-GitHub Pages
