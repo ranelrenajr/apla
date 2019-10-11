@@ -2144,7 +2144,7 @@ section.lazy-placeholder:after {
 .cid-rEviQEhRPm {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background19.jpg");
+  background-image: url("../../../assets/images/background119.jpg");
 }
 .cid-rEviQEhRPm .mbr-section-subtitle {
   color: #efefef;
@@ -3187,4 +3187,14 @@ section.lazy-placeholder:after {
 }
 .cid-rEv8tohrTK .media-container-row .row-copirayt p {
   width: 100%;
+}
+.cid-rEB3TJgv1C {
+  background-image: url("../../../assets/images/commingsoon-1920x1080.jpg");
+}
+.cid-rEB3TJgv1C H1 {
+  text-align: left;
+}
+.cid-rEB3TJgv1C .mbr-text,
+.cid-rEB3TJgv1C .mbr-section-btn {
+  text-align: left;
 }
