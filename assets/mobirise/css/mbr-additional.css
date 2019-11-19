@@ -1110,7 +1110,7 @@ section.lazy-placeholder:after {
 }
 .cid-rEvbhPHV6R {
   padding-top: 120px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-image: url("../../../assets/images/background4.jpg");
 }
 .cid-rEvbDSiQvB {
@@ -2727,15 +2727,6 @@ section.lazy-placeholder:after {
   display: none;
   transition: opacity .3s;
 }
-.cid-rEr5JyWONW .card-wrapper .card-img .mbr-section-btn {
-  position: absolute;
-  transition: opacity .3s;
-  width: 100%;
-  left: 0;
-  top: 50%;
-  height: auto;
-  transform: translateY(-50%);
-}
 .cid-rEr5JyWONW .card-wrapper .card-img img {
   width: 100%;
 }
@@ -2761,14 +2752,8 @@ section.lazy-placeholder:after {
   display: block !important;
   opacity: 0;
 }
-.cid-rEr5JyWONW .card-img .mbr-section-btn {
-  opacity: 0;
-}
 .cid-rEr5JyWONW .card-img:hover .mbr-overlay {
   opacity: .5;
-}
-.cid-rEr5JyWONW .card-img:hover .mbr-section-btn {
-  opacity: 1;
 }
 .cid-rEr7sP42BP {
   padding-top: 0px;
@@ -2808,15 +2793,6 @@ section.lazy-placeholder:after {
   display: none;
   transition: opacity .3s;
 }
-.cid-rEr7sP42BP .card-wrapper .card-img .mbr-section-btn {
-  position: absolute;
-  transition: opacity .3s;
-  width: 100%;
-  left: 0;
-  top: 50%;
-  height: auto;
-  transform: translateY(-50%);
-}
 .cid-rEr7sP42BP .card-wrapper .card-img img {
   width: 100%;
 }
@@ -2842,14 +2818,8 @@ section.lazy-placeholder:after {
   display: block !important;
   opacity: 0;
 }
-.cid-rEr7sP42BP .card-img .mbr-section-btn {
-  opacity: 0;
-}
 .cid-rEr7sP42BP .card-img:hover .mbr-overlay {
   opacity: .5;
-}
-.cid-rEr7sP42BP .card-img:hover .mbr-section-btn {
-  opacity: 1;
 }
 .cid-rEr7tfaNSz {
   padding-top: 0px;
@@ -2889,15 +2859,6 @@ section.lazy-placeholder:after {
   display: none;
   transition: opacity .3s;
 }
-.cid-rEr7tfaNSz .card-wrapper .card-img .mbr-section-btn {
-  position: absolute;
-  transition: opacity .3s;
-  width: 100%;
-  left: 0;
-  top: 50%;
-  height: auto;
-  transform: translateY(-50%);
-}
 .cid-rEr7tfaNSz .card-wrapper .card-img img {
   width: 100%;
 }
@@ -2923,14 +2884,16 @@ section.lazy-placeholder:after {
   display: block !important;
   opacity: 0;
 }
-.cid-rEr7tfaNSz .card-img .mbr-section-btn {
-  opacity: 0;
-}
 .cid-rEr7tfaNSz .card-img:hover .mbr-overlay {
   opacity: .5;
 }
-.cid-rEr7tfaNSz .card-img:hover .mbr-section-btn {
-  opacity: 1;
+.cid-rIf6ZkecRz {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/1491892-best-movie-theatre-wallpaper-2048x1536-image-2000x1500.jpg");
+}
+.cid-rIf6ZkecRz H2 {
+  text-align: center;
 }
 .cid-rEr9i2vjyQ {
   padding-top: 60px;
@@ -2961,10 +2924,10 @@ section.lazy-placeholder:after {
 .cid-rEqSbyJLcQ {
   padding-top: 30px;
   padding-bottom: 45px;
-  background-color: #ff9540;
+  background-image: url("../../../assets/images/venues-1441525431-9803-5172-1063x835.jpg");
 }
 .cid-rEqSbyJLcQ .mbr-section-subtitle {
-  color: #ffcb87;
+  color: #ffe5c2;
   font-weight: 300;
 }
 .cid-rEqSbyJLcQ .number-wrap {
@@ -3533,6 +3496,30 @@ section.lazy-placeholder:after {
 .cid-rEaUi5vkpD .nav-link:hover,
 .cid-rEaUi5vkpD .dropdown-item:hover {
   color: #ff9540 !important;
+}
+.cid-rIeZYO2Xfz {
+  padding-top: 120px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/city-skyscrapers-above-the-clouds-ron-shoshani-900x600.jpg");
+}
+.cid-rIeZYO2Xfz .title {
+  margin-bottom: 2rem;
+}
+.cid-rIeZYO2Xfz .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-rIeZYO2Xfz a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rIeZYO2Xfz a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rIeZYO2Xfz textarea.form-control {
+  min-height: 188px;
+}
+.cid-rIeZYO2Xfz H2 {
+  color: #ffffff;
 }
 .cid-rHWSnrOOPg {
   padding-top: 120px;
