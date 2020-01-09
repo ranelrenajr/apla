@@ -1421,6 +1421,68 @@ section.lazy-placeholder:after {
     text-align: center;
   }
 }
+.cid-rN3KsIdmre {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rN3KsIdmre .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-rN3KsIdmre .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-rN3KsIdmre .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-rN3KsIdmre .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-rN3KsIdmre .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rN3KsIdmre .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-rN3KsIdmre .mbr-gallery-item > div:hover:before {
+  opacity: 0.6 !important;
+}
+.cid-rN3KsIdmre .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-rN3KsIdmre .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.6;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+}
 .cid-rEvlub3j4S {
   padding-top: 90px;
   padding-bottom: 30px;
@@ -3102,34 +3164,34 @@ section.lazy-placeholder:after {
 .cid-rEqSbyJLcQ H2 {
   color: #ffffff;
 }
-.cid-rN3IppTs4t {
+.cid-rN3KojCgaI {
   padding-top: 120px;
   padding-bottom: 120px;
   background-image: url("../../../assets/images/footerbg-3-1920x1530.jpg");
 }
 @media (max-width: 767px) {
-  .cid-rN3IppTs4t .content {
+  .cid-rN3KojCgaI .content {
     text-align: center;
   }
-  .cid-rN3IppTs4t .content > div:not(:last-child) {
+  .cid-rN3KojCgaI .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
-.cid-rN3IppTs4t .map {
+.cid-rN3KojCgaI .map {
   height: 18.75rem;
 }
 @media (max-width: 767px) {
-  .cid-rN3IppTs4t .footer-lower .copyright {
+  .cid-rN3KojCgaI .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-rN3IppTs4t .footer-lower hr {
+.cid-rN3KojCgaI .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-rN3IppTs4t .footer-lower .social-list {
+.cid-rN3KojCgaI .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -3139,37 +3201,37 @@ section.lazy-placeholder:after {
   -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
 }
-.cid-rN3IppTs4t .footer-lower .social-list .mbr-iconfont-social {
+.cid-rN3KojCgaI .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-rN3IppTs4t .footer-lower .social-list .soc-item {
+.cid-rN3KojCgaI .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-rN3IppTs4t .footer-lower .social-list a {
+.cid-rN3KojCgaI .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-rN3IppTs4t .footer-lower .social-list a:hover {
+.cid-rN3KojCgaI .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-rN3IppTs4t .footer-lower .social-list {
+  .cid-rN3KojCgaI .footer-lower .social-list {
     -webkit-justify-content: center;
     justify-content: center;
   }
 }
-.cid-rN3IppTs4t .google-map {
+.cid-rN3KojCgaI .google-map {
   height: 25rem;
   position: relative;
 }
-.cid-rN3IppTs4t .google-map iframe {
+.cid-rN3KojCgaI .google-map iframe {
   height: 100%;
   width: 100%;
 }
-.cid-rN3IppTs4t .google-map [data-state-details] {
+.cid-rN3KojCgaI .google-map [data-state-details] {
   color: #6b6763;
   font-family: Montserrat;
   height: 1.5em;
@@ -3181,13 +3243,13 @@ section.lazy-placeholder:after {
   top: 50%;
   width: 100%;
 }
-.cid-rN3IppTs4t .google-map[data-state] {
+.cid-rN3KojCgaI .google-map[data-state] {
   background: #e9e5dc;
 }
-.cid-rN3IppTs4t .google-map[data-state="loading"] [data-state-details] {
+.cid-rN3KojCgaI .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-rN3IppTs4t P {
+.cid-rN3KojCgaI P {
   color: #ffffff;
 }
 .cid-rEaUi5vkpD .navbar {
