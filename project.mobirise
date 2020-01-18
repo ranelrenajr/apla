@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page7.html",
+    "currentPage": "ataa-announcement.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5236,10 +5236,10 @@
         }
       ]
     },
-    "page7.html": {
+    "ataa-announcement.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
-        "title": "Page 7",
+        "meta_descr": "Asia's Top Achievers Award - Vietnam",
+        "title": "Asia's Top Achievers Award",
         "order": 1
       },
       "components": [
