@@ -1795,6 +1795,27 @@ section.lazy-placeholder:after {
 .cid-rEvptSOQ5S H2 {
   color: #ffffff;
 }
+.cid-rOkhjf53aE {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 15px;
+}
+.cid-rOkhjf53aE .image-block {
+  margin: auto;
+}
+.cid-rOkhjf53aE figcaption {
+  position: relative;
+}
+.cid-rOkhjf53aE figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rOkhjf53aE .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rIfdMMfblR {
   padding-top: 120px;
   padding-bottom: 120px;
