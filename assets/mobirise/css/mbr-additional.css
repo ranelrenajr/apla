@@ -4434,25 +4434,25 @@ section.lazy-placeholder:after {
 .cid-rEaUi5vkpD .dropdown-item:hover {
   color: #ff9540 !important;
 }
-.cid-rQuDVmE1mv {
-  background: #021729;
+.cid-rQuF8Ghj5Z {
+  background: #060e16;
   padding-top: 120px;
-  padding-bottom: 15px;
-  background: linear-gradient(0deg, #d28900, #021729);
+  padding-bottom: 30px;
+  background: linear-gradient(0deg, #d28900, #060e16);
 }
-.cid-rQuDVmE1mv .image-block {
+.cid-rQuF8Ghj5Z .image-block {
   margin: auto;
 }
-.cid-rQuDVmE1mv figcaption {
+.cid-rQuF8Ghj5Z figcaption {
   position: relative;
 }
-.cid-rQuDVmE1mv figcaption div {
+.cid-rQuF8Ghj5Z figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-rQuDVmE1mv .image-block {
+  .cid-rQuF8Ghj5Z .image-block {
     width: 100% !important;
   }
 }
