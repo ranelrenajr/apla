@@ -4434,6 +4434,28 @@ section.lazy-placeholder:after {
 .cid-rEaUi5vkpD .dropdown-item:hover {
   color: #ff9540 !important;
 }
+.cid-rQuDVmE1mv {
+  background: #021729;
+  padding-top: 120px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #d28900, #021729);
+}
+.cid-rQuDVmE1mv .image-block {
+  margin: auto;
+}
+.cid-rQuDVmE1mv figcaption {
+  position: relative;
+}
+.cid-rQuDVmE1mv figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rQuDVmE1mv .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rQuz48jlAU {
   padding-top: 15px;
   padding-bottom: 15px;
